@@ -1,1 +1,1 @@
-# hds-piracy
+# HDS: Music industry
