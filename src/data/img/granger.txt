@@ -1,0 +1,19 @@
+
+
+----Premium Gross Profit su Gross Profit
+{1: ({'ssr_ftest': (20.68678838212778, 0.00013099043136752792, 24.0, 1), 'ssr_chi2test': (23.272636929893753, 1.4058595542633197e-06, 1), 'lrtest': (16.78384977291364, 4.188829573756846e-05, 1), 'params_ftest': (20.686788382125673, 0.00013099043136760542, 24.0, 1.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE200530>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE1AD1F0>, array([[0., 1., 0.]])])}
+
+----Ad Gross Profit su Gross Profit
+{1: ({'ssr_ftest': (1.1407244099670097, 0.29612506728165683, 24.0, 1), 'ssr_chi2test': (1.2833149612128862, 0.25728358304615045, 1), 'lrtest': (1.2537500607044763, 0.2628374428543791, 1), 'params_ftest': (1.140724409967325, 0.2961250672815918, 24.0, 1.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCC44042F0>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE37ADB0>, array([[0., 1., 0.]])])}
+
+----Premium MAUs su Gross Profit
+{1: ({'ssr_ftest': (23.257447715450954, 6.52033935601228e-05, 24.0, 1), 'ssr_chi2test': (26.164628679882323, 3.1351297328794323e-07, 1), 'lrtest': (18.294023739004388, 1.8930009964972258e-05, 1), 'params_ftest': (23.257447715450805, 6.520339356012522e-05, 24.0, 1.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE2004A0>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE1AD1F0>, array([[0., 1., 0.]])])}
+
+----Ad MAUs su Gross Profit
+{1: ({'ssr_ftest': (30.520327112846555, 1.1086742440398664e-05, 24.0, 1), 'ssr_chi2test': (34.335368001952375, 4.63874754981805e-09, 1), 'lrtest': (22.154033960941888, 2.5162668858454964e-06, 1), 'params_ftest': (30.520327112846577, 1.1086742440398633e-05, 24.0, 1.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE37B4A0>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE37B050>, array([[0., 1., 0.]])])}
+
+----Research and Development Cost su Gross Profit
+{1: ({'ssr_ftest': (5.630546082605632, 0.02600571906764127, 24.0, 1), 'ssr_chi2test': (6.3343643429313365, 0.011842055021650396, 1), 'lrtest': (5.69030295038209, 0.017058909355232795, 1), 'params_ftest': (5.6305460826049245, 0.026005719067649744, 24.0, 1.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE1AE6C0>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE200530>, array([[0., 1., 0.]])])}
+
+----Download APK su Gross Profit
+{1: ({'ssr_ftest': (2.3121475154019295, 0.14260984541314967, 22.0, 1), 'ssr_chi2test': (2.6274403584112838, 0.10503091243136689, 1), 'lrtest': (2.4983417458524286, 0.11396624107409957, 1), 'params_ftest': (2.3121475154020588, 0.1426098454131389, 22.0, 1.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDCBE6B70>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x000002DCDE1D5070>, array([[0., 1., 0.]])])}
