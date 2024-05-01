@@ -3,26 +3,46 @@ Indice
 * Introduzione 
     - modello di business di spotify 
     - definizioni di termini tecnici (MAUs, Ad MAUs ecc.)
-    - domande di ricerca 
+    x domande di ricerca 
 
 * Dataset 
     x dati finanziari spotify
     x download apk
     x manipolazioni sui dataframe (non sui dati)
-    - visualizzazione di alcuni dati (grezzi)
+    x aggregazione in quarter dati apk
+    x visualizzazione di alcuni dati (grezzi)
 
 * Metodo proposto
     - calcolo changepoint
-        - formule di rupture 
-    - granger causality
+        - PELT con rbf 
     - pearson, spearman e kendall tau corrrelation
-    - aggregazione in quarter dati apk
-    - calcolo MAUs marginali (∆)
+    - granger causality
+    x calcolo MAUs marginali (∆)
 
-* Risultati sperimentali
+<!-- * Risultati sperimentali
+    x calcolo changepoint
+        x PELT con rbf
+    x pearson, spearman e kendall tau corrrelation
+    - granger causality -->
+
+* Risultati sperimentali 
+    1) Fonti di guadagno di Spotify
+        x correlazioni sui gross profit (tra gross profit e MAUs) 
+        x granger su dove si trovano correlazioni forti
+        x changepoint per vedere se corrispondono 
+    2) Quanto l'apk influenza gli utenti di Spotify
+        x correlazione tra download apk e utenti (totali, premium e ad)
+        x correlazione tra download apk e gross profit (totale, premium e ad)
+        x correlazione tra download apk e MAUs marginali (solo su premium)
+        x granger causality tra download apk e premium MAUs/gross profit
 
 * Osservazioni e conclusioni
-
+    1) Fonti di guadagno di spotify
+        - changepoint a fine 2020 a causa lockdown 
+        - valore delle azioni in crescita 
+        - i premium influenzano i guadagni maggiormente, ma anche gli ad sono utili
+    
+    2) 
 * Bibliografia
 
 
