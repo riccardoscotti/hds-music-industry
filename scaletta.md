@@ -15,7 +15,7 @@ Indice
 * Metodo proposto
     - calcolo changepoint
         - PELT con rbf 
-    - pearson, spearman e kendall tau corrrelation
+    x pearson e spearman 
     - granger causality
     x calcolo MAUs marginali (∆)
 
