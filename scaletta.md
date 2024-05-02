@@ -1,8 +1,8 @@
 Indice 
 
 * Introduzione 
-    - modello di business di spotify 
-    - definizioni di termini tecnici (MAUs, Ad MAUs ecc.)
+    x modello di business di spotify 
+    x definizioni di termini tecnici (MAUs, Ad MAUs ecc.)
     x domande di ricerca 
 
 * Dataset 
@@ -13,10 +13,10 @@ Indice
     x visualizzazione di alcuni dati (grezzi)
 
 * Metodo proposto
-    - calcolo changepoint
-        - PELT con rbf 
+    x calcolo changepoint
+        x PELT con rbf 
     x pearson e spearman 
-    - granger causality
+    x granger causality
     x calcolo MAUs marginali (∆)
 
 <!-- * Risultati sperimentali
